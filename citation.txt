@@ -1,0 +1,10 @@
+@article{REPO050,
+    author = "Ghavasieh, Arsham and De Domenico, Manlio",
+    journal = "Nature Physics",
+    number = "3",
+    pages = "512--519",
+    publisher = "Nature Publishing Group UK London",
+    title = "{Diversity of information pathways drives sparsity in real-world networks}",
+    volume = "20",
+    year = "2024"
+}
